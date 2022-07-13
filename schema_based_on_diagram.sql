@@ -1,6 +1,7 @@
 -- create database named clinic.
 CREATE DATABASE clinic;
 
+
 -- create a table named patients.
 CREATE TABLE patients (
   id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
