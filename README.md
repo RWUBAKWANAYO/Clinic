@@ -1,8 +1,8 @@
 # Clinic Database
 
->This is a database created fr a clinic
+>This is a database created for a clinic
 
-## Screenshot
+## Schema Diagram
 ![](./clinic_diagram.png)
 
 ## Getting Started
