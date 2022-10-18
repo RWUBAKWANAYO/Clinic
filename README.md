@@ -1,6 +1,6 @@
 # Clinic Database
 
->This is a database created for a clinic
+>This is an education project to design clinic database diagram and create database schema based on generated design.
 
 ## Schema Diagram
 ![](./clinic_diagram.png)
